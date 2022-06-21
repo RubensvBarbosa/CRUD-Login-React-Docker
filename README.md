@@ -1,11 +1,3 @@
-# inf-22-dw2-g22
-
-site_name: 
-    -Social
-
-repo_url: 
-    -https://github.com/inf-22-dw2-g22/inf-22-dw2-g22.git
-
 
 
 # SOCIAL
